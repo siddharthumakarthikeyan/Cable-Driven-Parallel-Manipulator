@@ -32,7 +32,6 @@ requirements.txt     # Python dependencies
 - **Fallback Hierarchy:** Automatic fallback to SLSQP or null-space projection if OSQP/CVXPY unavailable.
 - **Trajectory Flexibility:** Easily extendable to new path types; supports smooth, differentiable profiles for advanced control.
 - **Visualization:** 3D robot, cable tension colormap, trajectory path, and platform trail; summary plots for cable tensions and platform motion.
-- **Batch & Cinematic Export:** Run all trajectories in batch mode, save static figures or MP4 videos (requires ffmpeg).
 
 ## Usage
 
@@ -63,7 +62,6 @@ python main.py --traj all        # Run all, show summary
 ### Cinematic Video Export
 
 - Use `--save-anim` to export high-quality MP4 videos of each trajectory.
-- For LinkedIn or presentations, combine the generated MP4s using any video editor.
 
 ## Academic License & Citation
 
