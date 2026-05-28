@@ -3,6 +3,10 @@
 
 A research-grade Python framework for simulation, optimal tension distribution, and cinematic visualization of 8-cable driven parallel manipulators. Designed for advanced robotics research, benchmarking, and reproducible experiments.
 
+<p align="center">
+  <img src="Cable Driven Parallel Manipulator.png" width="850"/>
+</p>
+
 ## Key Features
 
 - **8-Cable CDPM Modeling:** Modular, extensible robot class with full geometry, kinematics, and structure matrix computation.
