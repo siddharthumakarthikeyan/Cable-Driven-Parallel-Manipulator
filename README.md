@@ -59,10 +59,6 @@ python main.py --traj all        # Run all, show summary
 - `--dt 0.02`      Control time step [s]
 - `--duration 20`  Simulation duration [s]
 
-### Cinematic Video Export
-
-- Use `--save-anim` to export high-quality MP4 videos of each trajectory.
-
 ## Academic License & Citation
 
 This software is provided under an **Academic License**. Commercial use is strictly prohibited.
